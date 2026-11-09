@@ -1,0 +1,4 @@
+# your own CV stays local: copy example.typ to cv.typ
+cv.typ
+CV_*.pdf
+assets/
